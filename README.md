@@ -1,4 +1,4 @@
-The genome annotation for the Rio Pearlfish (Nematolebias whitei) genome version NemWhi1 (NCBI accession number: GCF_014905685.1), contained in this repository was generated with MAKER by Andrew W. Thompson, and Ingo Braasch (Michigan State University). Annotations represent the ‘MAKER standard build’ genes (see Campbell et al., 2014, Current Protoc Bioinform 48:4.11.1-4.11.39).
+The genome annotation for the Rio Pearlfish (Nematolebias whitei) genome version NemWhi1 (NCBI accession number: GCA_014905685.1), contained in this repository was generated with MAKER by Andrew W. Thompson, and Ingo Braasch (Michigan State University). Annotations represent the ‘MAKER standard build’ genes (see Campbell et al., 2014, Current Protoc Bioinform 48:4.11.1-4.11.39).
 
 Publication:
 
