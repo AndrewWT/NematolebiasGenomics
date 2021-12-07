@@ -10,8 +10,8 @@ Andrew W. Thompson, Harrison Wojtas, Myles Davoll, Ingo Braasch. Genome of the b
 
 Annotation Files:
 
-reduced_NEW.gff.bz2	#This is the GFF file containing info on MAKER standard genes only (repeat elements, blast hits, etc., removed)
+reduced_NEW.gff.bz2	#This is the bz2 zipped GFF file containing info on MAKER standard genes only (repeat elements, blast hits, etc., removed)
 
-NEW_transcripts.fasta.bz2	#This is the fasta file of transcripts from gene models as output by the MAKER Standard pipeline
+NEW_transcripts.fasta.bz2	#This is the bz2 zipped fasta file of transcripts from gene models as output by the MAKER Standard pipeline
 
-NEW_proteins.fasta.bz2	#This is the fasta file of proteins from gene models as output by the MAKER Standard pipeline
+NEW_proteins.fasta.bz2	#This is the bz2 zipped fasta file of proteins from gene models as output by the MAKER Standard pipeline
